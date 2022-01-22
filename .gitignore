@@ -1,0 +1,6 @@
+###> Other files and folders ###
+.idea
+.vscode
+docker-compose.yml
+/app
+###< Other files and folders ###
