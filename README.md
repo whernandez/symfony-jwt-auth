@@ -1,3 +1,6 @@
+> To install the symfony app it is recommended to follow the instructions in this tutorial https://github.com/whernandez/symfony5-dockerization 
+after installing the app you can continue here.
+
 ## JWT USER AUTHENTICATION
 Requirements: knowledge of docker, mysql, and symfony
 
